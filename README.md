@@ -11,7 +11,7 @@ python --version
 
    **Clone via GitHub:**
 ```bash
-   git clone https://github.com/hekalrapli/Tubes-ASA.git
+   git clone https://github.com/hekalrapli/Tubes-ASA
    cd Tubes-ASA
 ```
 
